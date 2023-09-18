@@ -6,3 +6,5 @@
   <li>At any point in time, the current play may choose to hold, which adds their round score to their total score, and play passes to the other player</li>
   <li>The first player whose total score reaches 100 wins the game</li>
 </ul>
+
+![FireShot Capture 003 - Pig Game - ](https://github.com/XolaniLan/Pig_Game/assets/140137794/27023acd-c940-4765-81f8-0d908c51f302)
