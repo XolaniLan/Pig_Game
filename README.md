@@ -8,3 +8,5 @@
 </ul>
 
 ![FireShot Capture 003 - Pig Game - ](https://github.com/XolaniLan/Pig_Game/assets/140137794/27023acd-c940-4765-81f8-0d908c51f302)
+
+![pig-game-flowchart](https://github.com/XolaniLan/Pig_Game/assets/140137794/27e72ee4-fe59-4aea-9f4a-031514693cf2)
